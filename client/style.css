@@ -1,0 +1,17 @@
+body {
+    background-color: lightsalmon;
+}
+
+#chirpBox {
+    border-color: blue;
+}
+
+.retrievedChirp {
+    color: firebrick;
+    background-color: greenyellow;
+}
+
+#chirpButton {
+    border-color: forestgreen;
+    color: purple;
+}
